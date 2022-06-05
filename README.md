@@ -42,10 +42,10 @@ GET /api/gif/{Char Code}
 ```  
 Простой html+js доступен по localhost:8080/
 
-Сборка и запуск .jar:
+Сборка и запуск .jar:(для Windows)
 ---
 ```
-./gradlew build
+gradle build
 ```
 ```
 java -jar build/libs/currency-gif-0.0.1-SNAPSHOT.jar
