@@ -46,7 +46,8 @@ GET /api/gif/{Char Code}
 ---
 ```
 ./gradlew build
-
+```
+```
 java -jar build/libs/currency-gif-0.0.1-SNAPSHOT.jar
 ```
 Docker:
